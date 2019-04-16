@@ -1,0 +1,62 @@
+###[Q]App recommendation
+Please note that recommendations like *Is there an app for X* are off-topic here (see [What topics can I ask about here?](/help/on-topic) for details). For where your question might fit better, you might want to look into [Where can I ask questions that aren't Android Enthusiast questions?](//android.meta.stackexchange.com/q/371/16575) and [Where to ask for app recommendations?](//android.meta.stackexchange.com/q/2060/16575).
+
+###[Q]Low question quality
+We will need much more information to give good recommendations here. Please [edit] your question and include at least: The device you're using, Android version it is running. Also check and update the tags you've used to match your issue.
+
+###[Q]Development question
+This site is for *users* of Android, which means that questions about development/programming are off-topic here (see the [What topics can I ask about here?](/help/on-topic)). Development questions are on-topic on our sister site [Stack Overflow](//stackoverflow.com/questions/tagged/android). You might also wish to consult [Where can I ask questions that aren't Android Enthusiast questions?](//android.meta.stackexchange.com/q/371/$MYUSERID$) for a fitting place to your question.
+
+###[Q]XY-problem
+This seems to be an [XY problem](//meta.stackoverflow.com/q/66377/192154). Instead of trying to get your supposed solution working: Mind telling us about the issue behind it?
+
+###[Q]More than one question asked
+The question-and-answer format of this site works best if you [put each question in a separate question post](//meta.stackexchange.com/q/39223/192154). Please [edit] your post down to one question, and create new posts to ask any further questions. You'll get better answers that way.
+
+###[Q]OP providing facts in a comment
+The best way to add additional information to your question is by editing it, with the [edit] link. It is better visible that way, and comments are mainly for secondary, temporary purposes. Comments are removed under a variety of circumstances. Anything important to your question should be in the question itself.
+
+###[Q]Frequent Question (use Search)
+This happens to be a question frequently asked on our site. Have you tried our on-site search? See [How do I search?](/help/searching) for help using it.
+
+###[Q]Crosspost
+Please note that [crossposting is not welcome at SE sites](//meta.stackexchange.com/q/64068/192154), even if they would fit on multiple of them. Ask the question on the site you think is most applicable. If it does not get any answer, ask a moderator to migrate the question, or alternatively, delete it and re-ask it.
+
+###[Q]Question includes answer
+On SE sites, it's perfectly fine to [answer your own question](/help/self-answer) (also [see here](//meta.stackexchange.com/questions/17845/etiquette-for-answering-your-own-question)) – but answers should be posted as answers, not as part of the question-post. Mind [edit]ing that out of your question, and move it to a separate answer? Thanks in advance!
+
+###[Q]List question
+[List questions are no good fit for Q&A sites](//meta.stackexchange.com/a/98366/192154), and hence are [considered off-topic](//meta.stackexchange.com/q/139618/192154).
+
+###[A]OP adding a new question as an answer
+Remember this is a Q&A site, so keep on [edit]ing your question with new information – this section is for actual answers. If you have another question, please ask it by clicking the [Ask Question](/questions/ask) button.
+
+###[A]OP using an answer for further information
+This is a question-and-answer site, [not a forum](//meta.stackexchange.com/q/92107/192154). Please use the *Post answer* button only if you have a solution to the problem, so that other users can see your question is not yet answered. You can click *edit* on the question to add more information to it.
+
+###[A]Answers just to say Thanks!
+This is a question-and-answer site, [not a forum](//meta.stackexchange.com/q/92107/192154) – so please don't add "thanks" as answers. Invest some time in the site and you will gain sufficient [privileges](/privileges) to [upvote](/help/privileges/vote-up) answers you like, which is the $SITENAME$ way of saying thank you.
+
+###[A]Nothing but a URL (and isn't spam)
+Whilst this may theoretically answer the question, [it would be preferable](//meta.stackoverflow.com/q/8259) to include the essential parts of the answer here, and provide the link for reference. Otherwise, your answer becomes useless in case the link dies. For further hints, please see: [How do I write a good answer](/help/how-to-answer).
+
+###[A]Comments as an answer (new users)
+This is a question-and-answer site, [not a forum](//meta.stackexchange.com/q/92107/192154). Please use the *Post answer* button only if you have a solution to the problem. With a bit more rep, [you will be able to post comments](/privileges/comment). For the moment I've added the comment for you, and I'm flagging this post for deletion.
+
+###[A]Comments as an answer (experienced users)
+This is a question-and-answer site, [not a forum](//meta.stackexchange.com/q/92107/192154): please don't add comments as answers. Use actual comments when seeking clarification of any issues.
+
+###[A]Answer that is a question
+This is a question-and-answer site, [not a forum](//meta.stackexchange.com/q/92107/192154). Please use the *Post answer* button only if you have a solution to the problem. If you have another question, please ask it by clicking the [Ask Question](/questions/ask) button. Include a link to this question if it helps provide context.
+
+###[A]Requests to OP for further information
+This is a question-and-answer site, [not a forum](//meta.stackexchange.com/q/92107/192154): please don't add comments as answers. Use actual comments when seeking clarification of any issues. With a bit more rep, [you will be able to post comments](/privileges/comment).
+
+###SMS Lingo
+Please don't use "txtspeak" / "SMS lingo" on SE sites, but rather fully spell each word. Many users here are no native English speakers, and some already have a hard enough time to follow normal English.
+
+###[A]Another user adding a 'Me too!'
+This is a Q&A site, [not a forum](//meta.stackexchange.com/q/92107/192154). Please use the *Post answer* button only if you have a solution to the problem. If you have a NEW question, please ask it by clicking the [Ask Question](/questions/ask) button. If you have sufficient reputation, [you may upvote](/privileges/vote-up) the question. Alternatively, "star" it as a favorite and you will be notified of any new answers, or [add a bounty](/help/privileges/set-bounties) to draw more attention to it.
+
+###[A]Low quality answer
+This post does not contain enough information to be considered an answer. How did it solve the issue? Where to find it? What are the steps to perform?
